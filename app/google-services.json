@@ -1,0 +1,42 @@
+{
+  "project_info": {
+    "project_number": "620644531111",
+    "firebase_url": "https://pushakmal.firebaseio.com",
+    "project_id": "pushakmal",
+    "storage_bucket": "pushakmal.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:620644531111:android:63a807c1a0d848b3",
+        "android_client_info": {
+          "package_name": "com.muza.akmal_push"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "620644531111-0trkuvq93dh63rjm0snou5o51f25kkig.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDkPxBncnt2eYotd6MxvpL5DKM6wuv8lyo"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
